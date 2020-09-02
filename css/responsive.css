@@ -1,0 +1,68 @@
+@media (max-width: 1200px) {	
+}
+
+@media (max-width: 980px) {	
+	#wrap 								{ padding: 0; }
+	#wrapper-header						{ top:0; }
+	#wrapper-banner						{ margin: 0px; }
+	#header 							{ height:60px; }	
+	#logo 								{ width: 40px; top:5px; left:10%; }
+	.slide img 							{ margin-top: 50px;}
+	#language-desktop					{ display:none; }
+	#menu								{ display:none; }
+	.mobile-menu-btn 					{ display:block; }
+	
+	.recruit .inner .wrap .one_third	{ width:50%; }
+	.recruit .inner table				{ width:100%; }
+	
+	.about-us .life 				  	{ padding: 5% 0; display:table; width: 100%; margin: 0 auto; text-align: center;}
+	.about-us .life img 				{ width: 100%}
+	
+	.services .inner .boxes 			{ margin: 0; width:100%;}
+	.services .inner .boxes h1 			{ width: 100%;}
+	.services .inner .content  			{ min-width: 100%;}
+	
+	.partner .inner 					{ text-align: center;}
+	
+	.inner h2							{ text-align: center!important;}
+	.inner .logo 						{ margin: 0!important; width: 100%!important;}	
+	.inner .content						{ text-align: center; min-width:100%!important;}
+	
+}
+
+@media (max-width: 840px) {
+	.recruit .inner						{ padding: 50px 10%; }
+	.recruit .inner	.half				{ width:100%; }
+	.about-us .life .half				{ padding: 5% 0; display:table; width: 100%; margin: 0 auto; text-align: center;}
+	.banner-text .wrap .content	 		{ margin-top: 10px; }
+}
+
+@media (max-width: 640px) {
+	.homeSlideShow .desktop				{ display:none; }
+	.homeSlideShow .mobile				{ display:block; }
+	
+	.recruit .inner .wrap .one_third	{ width:100%; }
+	.banner-text .wrap .title			{ font-size:28px!important; }
+	.inner h2 							{ font-size:32px!important; }
+	
+	.inner p 							{ font-size:16px!important; }
+}
+
+@media (max-width: 560px) {
+}
+
+@media (max-width: 480px) {
+	
+}
+
+@media (max-width: 340px) {
+	.banner-text .wrap .content	 		{ font-size:12px!important; margin: 0px; }
+	.inner h3 							{ font-size:24px!important; }
+	.contact-us th, td 					{ float:left;}
+    #logo img							{ margin:0; }
+}
+
+@media (max-width: 400px) {
+	.inner .logo img					{ max-width:100%;}	
+	
+}
